@@ -915,7 +915,7 @@ section.lazy-placeholder:after {
 .cid-sj8KDoRsCN H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -1760,7 +1760,7 @@ section.lazy-placeholder:after {
 .cid-sj8KKq9BPd H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -2214,7 +2214,7 @@ section.lazy-placeholder:after {
 .cid-sj3NbijX7m H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -2712,7 +2712,7 @@ section.lazy-placeholder:after {
 .cid-sj8KQcLFYv H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -3210,7 +3210,7 @@ section.lazy-placeholder:after {
 .cid-sj8KTwq6tt H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -3708,7 +3708,7 @@ section.lazy-placeholder:after {
 .cid-sj8KWkB9dr H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -4206,7 +4206,7 @@ section.lazy-placeholder:after {
 .cid-sj8L12lAB5 H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -4704,7 +4704,7 @@ section.lazy-placeholder:after {
 .cid-sj8L59jNYQ H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -5205,7 +5205,7 @@ section.lazy-placeholder:after {
 .cid-sj8L8wznCw H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -5706,7 +5706,7 @@ section.lazy-placeholder:after {
 .cid-sj8Ld1sa7i H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -6227,7 +6227,7 @@ section.lazy-placeholder:after {
 .cid-sj8Lghp5KA H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -6678,7 +6678,7 @@ section.lazy-placeholder:after {
 .cid-sj8LktsPVX H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -7084,7 +7084,7 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-sqA4zWEOCH {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -7124,7 +7124,7 @@ section.lazy-placeholder:after {
 .cid-sqA5FdR65Y H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
@@ -7529,30 +7529,45 @@ section.lazy-placeholder:after {
 .cid-sizuG4MRgB .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-sqAomeyq8u {
-  padding-top: 120px;
-  padding-bottom: 60px;
+.cid-sqGvlb0L9M {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-sqAomeyq8u .mbr-section-subtitle {
-  color: #767676;
+.cid-sqGvlb0L9M .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-sqAotGEh8r {
+.cid-sqGvlb0L9M .section-text {
+  padding: 2rem 0;
+}
+.cid-sqGvlb0L9M .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sqGvlb0L9M .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sqGt3L4mcj {
   padding-top: 90px;
   padding-bottom: 90px;
   background: linear-gradient(0deg, #232323, #232323);
 }
-.cid-sqAotGEh8r .mbr-iconfont-social {
+.cid-sqGt3L4mcj .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-sqAotGEh8r .social-list a:focus {
+.cid-sqGt3L4mcj .social-list a:focus {
   text-decoration: none;
 }
-.cid-sqAotGEh8r H2 {
+.cid-sqGt3L4mcj H2 {
   color: #ff3366;
 }
-.cid-sqAoR8aNhJ {
+.cid-sqGvAH4lmA {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
